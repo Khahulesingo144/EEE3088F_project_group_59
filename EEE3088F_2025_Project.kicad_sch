@@ -5289,7 +5289,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small_US"
+		(property "Value" "1R6"
 			(at 170.18 116.8399 0)
 			(effects
 				(font
@@ -5359,7 +5359,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small_US"
+		(property "Value" "15K"
 			(at 162.56 121.9199 0)
 			(effects
 				(font
@@ -5429,7 +5429,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 130.81 116.8399 0)
 			(effects
 				(font
@@ -5499,7 +5499,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 191.77 119.3799 0)
 			(effects
 				(font
