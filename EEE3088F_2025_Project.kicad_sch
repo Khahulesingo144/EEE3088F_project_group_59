@@ -2611,23 +2611,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U6"
-				(at 8.89 -5.08 0)
+			(property "Reference" "U"
+				(at 6.858 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "HUSB237-AA001-DN06R"
-				(at 8.89 -7.62 0)
+			(property "Value" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm"
+			(property "Footprint" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -2636,7 +2636,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590908931298979840"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -2645,16 +2645,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DFN-6L-EP(2x2) USB PD ROHS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C22373734"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3571,6 +3562,12 @@
 		(uuid "008bf9cc-fe93-4de8-83c1-1325c67ba7af")
 	)
 	(junction
+		(at 29.21 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20e93f47-7673-4413-acbb-c0b4eae43fa4")
+	)
+	(junction
 		(at 189.23 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4048,6 +4045,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 77.47) (xy 33.02 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b7aa07c-f2d8-4a5b-8b37-008421367731")
+	)
+	(wire
+		(pts
 			(xy 85.09 49.53) (xy 85.09 50.8)
 		)
 		(stroke
@@ -4178,6 +4185,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 73.66) (xy 30.48 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d271955-ec62-449e-93f5-cd1e7d8e8c76")
+	)
+	(wire
+		(pts
 			(xy 231.14 129.54) (xy 231.14 134.62)
 		)
 		(stroke
@@ -4195,6 +4212,16 @@
 			(type default)
 		)
 		(uuid "3eb821a7-67a0-4154-8a89-ff3ac53fa0d8")
+	)
+	(wire
+		(pts
+			(xy 29.21 73.66) (xy 29.21 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4108af97-5bca-4047-b874-627c3a823747")
 	)
 	(wire
 		(pts
@@ -4408,7 +4435,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 73.66) (xy 30.48 73.66)
+			(xy 24.13 73.66) (xy 29.21 73.66)
 		)
 		(stroke
 			(width 0)
