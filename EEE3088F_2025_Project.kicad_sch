@@ -10959,7 +10959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 243.5352 135.89 0)
 			(effects
 				(font
@@ -10978,6 +10978,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 242.57 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3011652"
 			(at 242.57 132.08 0)
 			(effects
 				(font
@@ -11029,7 +11038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 187.96 152.4 0)
 			(effects
 				(font
@@ -11076,6 +11085,15 @@
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
 			(at 182.88 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C20917"
+			(at 182.88 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11596,7 +11614,7 @@
 				)
 			)
 		)
-		(property "Value" "HT7550-1,"
+		(property "Value" "CJ78L05"
 			(at 232.41 120.65 0)
 			(effects
 				(font
@@ -11614,7 +11632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707787284303872"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579710244295413760"
 			(at 232.41 125.73 0)
 			(effects
 				(font
@@ -11623,7 +11641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mA Fixed 3.3V Positive electrode 30V SOT-89-3 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+		(property "Description" "100mA Fixed 5V Positive electrode 30V SOT-89-3L Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
 			(at 232.41 124.46 0)
 			(effects
 				(font
@@ -11632,7 +11650,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14289"
+		(property "LCSC" "C2079"
 			(at 232.41 124.46 0)
 			(effects
 				(font
@@ -13015,7 +13033,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e37d0ac1-acec-4626-b329-b9bd313c300b")
@@ -13174,7 +13192,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(uuid "e3d6f6e2-29d5-47c6-ad91-37a96d4508f6")
 		(property "Reference" "J3"
@@ -13344,7 +13362,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "0.33u"
 			(at 218.44 133.3499 0)
 			(effects
 				(font
@@ -13353,7 +13371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 221.2848 135.89 0)
 			(effects
 				(font
@@ -13372,6 +13390,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 222.25 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5139492"
 			(at 222.25 132.08 0)
 			(effects
 				(font
