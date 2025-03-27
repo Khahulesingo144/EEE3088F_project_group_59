@@ -12332,7 +12332,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+		(property "Footprint" "Resistor_SMD:R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm"
 			(at 35.052 106.68 90)
 			(effects
 				(font
@@ -12651,7 +12651,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.36R"
+		(property "Value" "0.39R"
 			(at 168.91 50.038 90)
 			(effects
 				(font
