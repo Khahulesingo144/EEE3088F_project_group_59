@@ -9,9 +9,6 @@ This repository contains all design files and documentation for the power subsys
 
 The power module is responsible for delivering regulated power to the entire micro-mouse system, supporting motor driving, USB-C power input, battery monitoring and charging, and high-side switching for external loads.
 
-## Repository Structure
-
-
 ## Project Objectives
 - Design and manufacture a power PCB that:
   - Powers 4 motors (2x 200mA and 2x 500mA brushed DC)
