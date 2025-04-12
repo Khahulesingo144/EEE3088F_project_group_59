@@ -30,7 +30,7 @@ The power module is responsible for delivering regulated power to the entire mic
 - **LaTeX** – Report writing
 
 ## Key Files
-- `production_files/EEE3088F_PowerModule_Gerbers.zip` – Final Gerber files for PCB manufacturing
+- `jlcpcb/production_files/GERBER-EEE3088F_2025_Project.zip` – Final Gerber files for PCB manufacturing
 - `production_files/BOM.csv` – Bill of Materials for JLCPCB
 - `production_files/CPL.csv` – Pick and Place file for assembly
 - `images/` – Includes screenshots of BOM upload and order verification for JLCPCB submission
